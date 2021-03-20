@@ -6,6 +6,7 @@ public class Principal {
 		System.out.println("Hola Mundo");
 		System.out.println("Adiós Mundo Cruel");
 		//He dicho que el comentario se queda
+		//Entre bomberos no nos pisemos la manguera
 	}
 
 }
